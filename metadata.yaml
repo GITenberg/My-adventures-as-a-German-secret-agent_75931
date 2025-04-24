@@ -1,0 +1,27 @@
+_repo: My-adventures-as-a-German-secret-agent_75931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goltz, Horst von der
+    gutenberg_agent_id: '58223'
+    url: http://www.gutenberg.org/2009/agents/58223
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75931'
+language: en
+pgterms:marc904: https://archive.org/details/myadventuresasge00goltrich
+pgterms:marc905: 20221203125958vondergolt
+pgterms:marc906: '1918'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bCassell and company, ltd., $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My adventures as a German secret agent
+url: http://www.gutenberg.org/ebooks/75931
