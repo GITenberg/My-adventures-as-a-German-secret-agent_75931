@@ -1,11 +1,16 @@
 _repo: My-adventures-as-a-German-secret-agent_75931
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75931-h/images/cover.jpg
 creator:
   author:
     agent_name: Goltz, Horst von der
     gutenberg_agent_id: '58223'
     url: http://www.gutenberg.org/2009/agents/58223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75931#My-adventures-as-a-German-secret-agent
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
